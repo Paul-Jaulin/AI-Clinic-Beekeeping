@@ -1,0 +1,7 @@
+roboflow
+pillow
+tensorflow
+scikit-learn
+numpy
+matplotlib
+torch
